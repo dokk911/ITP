@@ -1,0 +1,6 @@
+E:\C#\ConsoleAppDz\ConsoleAppDz3\bin\Debug\ConsoleAppDz3.exe.config
+E:\C#\ConsoleAppDz\ConsoleAppDz3\bin\Debug\ConsoleAppDz3.exe
+E:\C#\ConsoleAppDz\ConsoleAppDz3\bin\Debug\ConsoleAppDz3.pdb
+E:\C#\ConsoleAppDz\ConsoleAppDz3\obj\Debug\ConsoleAppDz3.csproj.CoreCompileInputs.cache
+E:\C#\ConsoleAppDz\ConsoleAppDz3\obj\Debug\ConsoleAppDz3.exe
+E:\C#\ConsoleAppDz\ConsoleAppDz3\obj\Debug\ConsoleAppDz3.pdb
