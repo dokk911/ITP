@@ -26,23 +26,9 @@ namespace ConsoleAppDz4
             Console.Write("Кем вы работаете?: ");
             string work = Console.ReadLine();
 
-            Console.Write("Нравится ли вам ваша работа? да/нет: ");
-            string likeWork = Console.ReadLine();
-
-            switch (likeWork)
-            {
-                case ("да"):
-                    likeWork = "нравится";
-                    break;
-                case ("нет"):
-                    likeWork = "не нравится";
-                    break;
-            }
-
             Console.WriteLine(" ");
 
-            Console.WriteLine($"Вас зовут {name}, вам {old} лет, по знаку ходиака вы {zodiac}.");
-            Console.WriteLine($"Вы работаете {work}, ваша работа вам {likeWork}.");
+            Console.WriteLine($"Вас зовут {name}, вам {old} лет, по знаку ходиака вы {zodiac}, вы работаете {work}.");
 
             Console.ReadKey();
         }

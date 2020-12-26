@@ -4,3 +4,4 @@ E:\C#\ConsoleAppDz\ConsoleAppDz4\bin\Debug\ConsoleAppDz4.pdb
 E:\C#\ConsoleAppDz\ConsoleAppDz4\obj\Debug\ConsoleAppDz4.csproj.CoreCompileInputs.cache
 E:\C#\ConsoleAppDz\ConsoleAppDz4\obj\Debug\ConsoleAppDz4.exe
 E:\C#\ConsoleAppDz\ConsoleAppDz4\obj\Debug\ConsoleAppDz4.pdb
+E:\C#\ConsoleAppDz\ConsoleAppDz4\obj\Debug\ConsoleAppDz4.csprojAssemblyReference.cache
