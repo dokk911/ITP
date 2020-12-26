@@ -20,33 +20,21 @@ namespace ConsoleAppDz2
             Console.Write("Введите кол - во золота: ");
             gold = Convert.ToInt32(Console.ReadLine());
 
-            Console.Write($"Вы можете обменять ваше золото({gold}) на кристаллы, да/нет: ");
-            string answer = Console.ReadLine();
+            Console.WriteLine("Курс обмена - 3 золота");
+            Console.Write("Напишите кол - во кристаллов для обмена: ");
+            crystals = Convert.ToInt32(Console.ReadLine());
 
-            switch (answer)
+            if (gold - crystals * 3 >= 0)
             {
-                case ("да"):
-                    Console.WriteLine("Курс обмена - 3 золота");
-                    Console.Write("Напишите кол - во кристаллов: ");
-                    crystals = Convert.ToInt32(Console.ReadLine());
+                gold = gold - crystals * 3;
 
-                    if (gold - crystals * 3 >= 0)
-                    {
-                        gold = gold - crystals * 3;
-
-                        Console.WriteLine("Успешно!");
-                        Console.WriteLine($"Золото: {gold}");
-                        Console.WriteLine($"Кристалы: {crystals}");
-                    }
-                    else
-                    {
-                        Console.WriteLine("Не хватает золота!");
-                    }
-                    break;
-                case ("нет"):
-                    Console.WriteLine($"Золото: {gold}");
-                    Console.WriteLine($"Кристалы: {crystals}");
-                    break;
+                Console.WriteLine("Успешно!");
+                Console.WriteLine($"Золото: {gold}");
+                Console.WriteLine($"Кристалы: {crystals}");
+            }
+            else
+            {
+                Console.WriteLine("Не хватает золота!");
             }
 
             Console.ReadKey();
