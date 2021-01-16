@@ -1,0 +1,6 @@
+E:\C#\ConsoleHomeWork\ConsoleHomeWork3\bin\Debug\ConsoleHomeWork3.exe.config
+E:\C#\ConsoleHomeWork\ConsoleHomeWork3\bin\Debug\ConsoleHomeWork3.exe
+E:\C#\ConsoleHomeWork\ConsoleHomeWork3\bin\Debug\ConsoleHomeWork3.pdb
+E:\C#\ConsoleHomeWork\ConsoleHomeWork3\obj\Debug\ConsoleHomeWork3.csproj.CoreCompileInputs.cache
+E:\C#\ConsoleHomeWork\ConsoleHomeWork3\obj\Debug\ConsoleHomeWork3.exe
+E:\C#\ConsoleHomeWork\ConsoleHomeWork3\obj\Debug\ConsoleHomeWork3.pdb
