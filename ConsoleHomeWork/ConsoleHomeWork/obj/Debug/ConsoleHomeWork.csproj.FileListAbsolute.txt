@@ -1,0 +1,7 @@
+E:\C#\ConsoleHomeWork\ConsoleHomeWork\bin\Debug\ConsoleHomeWork.exe.config
+E:\C#\ConsoleHomeWork\ConsoleHomeWork\bin\Debug\ConsoleHomeWork.exe
+E:\C#\ConsoleHomeWork\ConsoleHomeWork\bin\Debug\ConsoleHomeWork.pdb
+E:\C#\ConsoleHomeWork\ConsoleHomeWork\obj\Debug\ConsoleHomeWork.csprojAssemblyReference.cache
+E:\C#\ConsoleHomeWork\ConsoleHomeWork\obj\Debug\ConsoleHomeWork.csproj.CoreCompileInputs.cache
+E:\C#\ConsoleHomeWork\ConsoleHomeWork\obj\Debug\ConsoleHomeWork.exe
+E:\C#\ConsoleHomeWork\ConsoleHomeWork\obj\Debug\ConsoleHomeWork.pdb
