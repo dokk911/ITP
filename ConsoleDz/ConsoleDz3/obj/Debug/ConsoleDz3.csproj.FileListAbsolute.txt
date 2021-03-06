@@ -1,0 +1,7 @@
+E:\C#\ConsoleDz\ConsoleDz3\bin\Debug\ConsoleDz3.exe.config
+E:\C#\ConsoleDz\ConsoleDz3\bin\Debug\ConsoleDz3.exe
+E:\C#\ConsoleDz\ConsoleDz3\bin\Debug\ConsoleDz3.pdb
+E:\C#\ConsoleDz\ConsoleDz3\obj\Debug\ConsoleDz3.csproj.CoreCompileInputs.cache
+E:\C#\ConsoleDz\ConsoleDz3\obj\Debug\ConsoleDz3.exe
+E:\C#\ConsoleDz\ConsoleDz3\obj\Debug\ConsoleDz3.pdb
+E:\C#\ConsoleDz\ConsoleDz3\obj\Debug\ConsoleDz3.csprojAssemblyReference.cache
