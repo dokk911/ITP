@@ -1,0 +1,10 @@
+E:\C#\XOgame\XOgame\bin\Debug\XOgame.exe.config
+E:\C#\XOgame\XOgame\bin\Debug\XOgame.exe
+E:\C#\XOgame\XOgame\bin\Debug\XOgame.pdb
+E:\C#\XOgame\XOgame\obj\Debug\XOgame.csprojAssemblyReference.cache
+E:\C#\XOgame\XOgame\obj\Debug\XOgame.Form1.resources
+E:\C#\XOgame\XOgame\obj\Debug\XOgame.Properties.Resources.resources
+E:\C#\XOgame\XOgame\obj\Debug\XOgame.csproj.GenerateResource.cache
+E:\C#\XOgame\XOgame\obj\Debug\XOgame.csproj.CoreCompileInputs.cache
+E:\C#\XOgame\XOgame\obj\Debug\XOgame.exe
+E:\C#\XOgame\XOgame\obj\Debug\XOgame.pdb
